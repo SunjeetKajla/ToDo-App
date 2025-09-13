@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+    <string name="enter_task">Enter a task</string>
+    <string name="add">Add</string>
+    <string name="sample_task">Sample task</string>
+    <string name="delete">Delete</string>
+    <string name="dark">Switch to 🌙 Dark Mode</string>
+</resources>
